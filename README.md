@@ -3,7 +3,7 @@
 **MediChat** is a multilingual patient intake kiosk designed to streamline emergency room and clinic operations. It bridges the communication gap between patients and medical staff by instantly translating symptoms from **20+ languages** into standardized clinical English for risk assessment.
 
 ## 🚀 Live Demo
-[**Click here to try the Live App**](https://tanakashumba-medichat.streamlit.app)
+[**Click here to try the Live App**](https://medichat-jtpygclbxqkgaatirfnwum.streamlit.app/)
 
 ## 🔑 Key Features
 * **🌍 Universal Translation:** Uses `deep-translator` to instantly convert patient inputs (Spanish, Swahili, Mandarin, etc.) into English for analysis, then replies in the patient's native language.
